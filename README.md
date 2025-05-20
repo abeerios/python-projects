@@ -1,5 +1,4 @@
-# learning-python
-
+# What?
 Here, I'll be adding all projects I have coded in Python. 
 
 ## BB84 Protocol
